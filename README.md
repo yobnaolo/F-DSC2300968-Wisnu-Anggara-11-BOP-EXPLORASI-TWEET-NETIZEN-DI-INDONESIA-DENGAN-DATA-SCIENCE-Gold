@@ -1,2 +1,4 @@
-# dsc-challenge-gold-group-4
-API, PPT, and notebook for challenge gold DSC 11
+Welcome to the repository of Boyan.
+Here are compilations of several files that show progress of learning
+from bootcamp since day 1.
+
